@@ -11,7 +11,7 @@
 
 # Diagramme de Classe
 
-![Diagramme de Classe](Diagramme_Classes_farm.jpg)
+![Diagramme de Classe](data/Diagramme_Classes_farm.jpg)
 
 Le diagramme de classe ci-dessus représente la structure des classes utilisées dans le projet.
 
