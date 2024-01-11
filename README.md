@@ -9,6 +9,13 @@
 3. Utilisez le makefile fourni pour compiler le jeu.
 4. Exécutez l'exécutable généré.
 
+# Diagramme de Classe
+
+![Diagramme de Classe](Diagramme_Classes_farm.jpg)
+
+Le diagramme de classe ci-dessus représente la structure des classes utilisées dans le projet.
+
+
 ## Manuel du jeu
 ### Principe et règles du jeu
 - Options : Jouer, Option, Crédit.
